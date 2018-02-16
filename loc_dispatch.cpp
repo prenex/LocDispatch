@@ -115,7 +115,7 @@ int main() {
 	// ERR - no '=' operator between the two versions
 	test = hello;
 */
-// Also see what is happening in here and that optimization takes place
+// Just see what is happening in here and that optimization takes place
 	//auto t1 = make_tree;
 	auto t1 = make_tree;
 	auto t2 = make_tree;
